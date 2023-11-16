@@ -12,3 +12,7 @@
 int age = 22
 print(age)
 ```
+# First To-Do list
+- [x] Add a photo
+- [x] Add a code
+- [ ] Add a todo list  
